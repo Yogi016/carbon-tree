@@ -1,0 +1,6 @@
+{
+  "name": "Karbon Trade",
+  "description": "A web application to calculate tree carbon stock and sequestration. Users can input tree data, see results, get AI-powered facts, and export calculations to an Excel file.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
